@@ -1,3 +1,1 @@
-egit is a version control system
-我正在学习Git
-练习Git修改git add stage
+第一次提交到远程库
